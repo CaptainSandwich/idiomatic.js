@@ -327,7 +327,7 @@ The following sections outline a _reasonable_ style guide for modern JavaScript 
     }
 
     // Usage
-    square( 10 );
+    square(10);
 
     // Really contrived continuation passing style
     function square(number, callback) {
