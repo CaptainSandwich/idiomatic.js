@@ -366,10 +366,10 @@ The following sections outline a _reasonable_ style guide for modern JavaScript 
     }
 
     // Usage
-    var fooBar = new FooBar({ a: 'alpha' });
+    var fooBar = new FooBar({a: 'alpha'});
 
     fooBar.options;
-    // { a: 'alpha' }
+    // {a: 'alpha'}
 
     ```
 
@@ -386,7 +386,7 @@ The following sections outline a _reasonable_ style guide for modern JavaScript 
     });
 
     // Function accepting an array, no space
-    foo([ 'alpha', 'beta' ]);
+    foo(['alpha', 'beta']);
 
     // 2.C.1.2
     // Function accepting an object, no space
