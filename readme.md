@@ -599,8 +599,8 @@ The following sections outline a _reasonable_ style guide for modern JavaScript 
     // 3.B.2.2
 
     var number = 1,
-      string = '1',
-      bool = true;
+        string = '1',
+        bool = true;
 
     string === number;
     // false
