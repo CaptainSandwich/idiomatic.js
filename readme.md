@@ -1293,6 +1293,7 @@ The following sections outline a _reasonable_ style guide for modern JavaScript 
     #### Multiline is good
     #### End of line comments are prohibited!
     #### JSDoc style is good, but requires a significant time investment
+    #### Functions, modules, classes, etc. should have a comment after their closing parenthesis with their name
 
 
 10. <a name="language">One Language Code</a>
